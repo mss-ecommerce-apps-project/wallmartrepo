@@ -1,3 +1,2 @@
-i am wrinting something
 iam damodar from bangalore
 iam learning devops
